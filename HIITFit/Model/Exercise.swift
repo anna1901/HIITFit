@@ -1,6 +1,6 @@
 //
 //  Exercise.swift
-//  MyFirstNot
+//  HIITFit
 //
 //  Created by Ania on 27/12/2024.
 //

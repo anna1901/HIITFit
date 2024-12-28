@@ -1,6 +1,6 @@
 //
 //  VideoPlayerView.swift
-//  MyFirstNot
+//  HIITFit
 //
 //  Created by Ania on 28/12/2024.
 //
